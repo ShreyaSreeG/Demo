@@ -1,0 +1,8 @@
+public class gitdemo{
+  public void getMul(){
+    integer a =2;
+    integer b = 5;
+    integer res;
+      system.debug(res);
+  }
+}
